@@ -1,0 +1,64 @@
+
+[ DOMAIN LOOK-UP ] :
+
+1. [ WWW.ASTRO-SEEK.COM ] : 
+	 - IPv4 : 217.198.122.230
+		  Geolocation Information: 
+					- Czech Republic
+					- Region: Jihomoravsky kraj (South Moravian)
+					- City: Kurim or Brno
+					- Organization: Zoner Software A.S. (zoner.com) / AS34222 ZONER a.s
+					- Latitude: 49.2952, Longitude: 16.5477 (Kurim)
+					- Latitude: 49.19527, Longitude: 16.60167 (Brno)
+
+	 - IPv6 : 2a00:19a0:3:7a:0:d9c6:7ae6:1
+
+2. [ WWW.TUMBLR.COM ] : 	
+ 	 - IPv4 : 192.0.77.40
+		  Geolocation Information:
+					- United States
+					- Region: California
+					- City: San Francisco
+					- Organization: AS2635 Automatic Inc.
+					- Latitude: 37.7509, Longitude: -122.419
+
+3. [ WWW.PINTEREST.COM ] :
+	 - IPv4 : 151.101.0.84
+		  151.101.64.84
+		  151.101.128.84
+		  151.101.192.84
+		  Geolocation Information for (151.101.0.84):
+					- United States
+					- Region: California
+					- City: San Francisco
+					- Organization: Fastly, Inc. (fastly.com)
+					- Latitude: 37.77571, Longitude: -122.39525
+
+4. [ WWW.IGANONY.NET ] :
+	 - IPv4 : 172.67.164.26
+		  104.21.65.146
+	 - IPv6 : 2606:4700:3032::6815:4192
+		  2606:4700:3032::ac43:a41a
+		  Geolocation Information for (172.67.164.26):
+					- United States
+					- Region: California
+					- City: San Francisco
+					- ISP: Cloudflare, Inc.
+					- Organization: AS13335
+					- Latitude: 37.7621, Longitude: -122.3971
+
+5. [ WWW.STORYNAVIGATION.COM ] : 
+	 - IPv4 : 104.26.8.103
+		  104.26.9.103
+		  172.67.72.154
+	 - IPv6 : 2606:4700:20::681a:967
+		  2606:4700:20::681a:867
+		  2606:4700:20::ac43:489a
+ 		  Geolocation Information for (104.26.8.103):
+					- United States & Canada
+					- Region: California & Ontario
+					- City: San Francisco & Toronto
+					- ISP: Cloudflare, Inc.
+					- Organization: AS13335 Cloudflare, Inc.
+					- ( San Francisco ) : Latitude: 37.7757, Longitude: -122.3952
+					- ( Toronto ) : Latitude: 43.6532, Longitude: -79.3832
