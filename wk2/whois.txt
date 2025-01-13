@@ -1,0 +1,416 @@
+1. [ INSTAGRAM.COM ]:
+
+Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+
+Important Dates
+
+Expires On
+2033-06-04
+Registered On
+2004-06-04
+Updated On
+2024-06-26
+
+Name Servers
+a.ns.instagram.com
+129.134.30.12
+b.ns.instagram.com
+129.134.31.12
+c.ns.instagram.com
+185.89.218.12
+d.ns.instagram.com
+185.89.219.12
+
+Similar Domains
+insta---.com | insta---112.com | insta---119k1.com | insta---9gag.com | insta---akijekume.com | insta---alamamoonnisar01.com | insta---alasmakha.com | insta---aracastiillo.com | insta---ariphly.com | insta---arthuurcst.com |insta---benjamin6565653.com | insta---brandonbaart1175.com | insta---cleode5a7.com | insta---confesunshine.com | insta---danknecrofear.com | insta---diabzqi.com | insta---dimabaahii.com | insta---euamovoce69.com | insta---explanaemirv3.com |insta---georgelap03.co |
+
+Registrant Contact Information:
+Name: Domain Admin
+Organization: Instagram LLC
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City:Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+
+Email: domain@fb.com
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Administrative Contact Information:
+Name: Domain Admin
+Organization: Instagram LLC
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+Email: domain@fb.com
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Tech Contact Information:
+Name: Domain Admin
+Organization: Instagram LLC
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+Email: domain@fb.com
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Information Updated: 2025-01-05 23:02:43.890287+00
+
+2. [ REDHAT.COM ]:
+Important Dates
+
+Expires On
+2025-05-25
+Registered On
+1994-05-26
+Updated On
+2024-04-25
+
+Name Servers
+dns1.p01.nsone.net
+198.51.44.1
+dns2.p01.nsone.net
+198.51.45.1
+dns3.p01.nsone.net
+198.51.44.65
+dns4.p01.nsone.net
+198.51.45.65
+dns1.p02.nsone.net
+198.51.44.2
+dns2.p02.nsone.net
+198.51.45.2
+
+Similar Domains
+redha-alawi.com | redha-alenazi.com | redha-alkhayat.com | redha-azmei.com | redha-bedlinen.com | redha-cut.com | redha-photogalery.fr | redha-photogallery.fr | redha-photos.com | redha-taiar.com | redha-taiar.info | redha-test.online |redha.ae | redha.biz | redha.ch | redha.com | redha.es | redha.fr | redha.info | redha.io |
+
+Registrant Contact Information:
+
+Name:
+REDACTED FOR PRIVACY
+Organization:
+Red Hat, Inc.
+Address Line 1:
+REDACTED FOR PRIVACY
+Address Line 2:
+City:
+REDACTED FOR PRIVACY
+State/Province:
+North Carolina
+Postal Code:
+REDACTED FOR PRIVACY
+Country:
+US
+Phone:
+REDACTED FOR PRIVACY
+Fax:
+REDACTED FOR PRIVACY
+Email: redhat.com-Admin@anonymised.email
+Full Address:
+REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY
+Administrative Contact Information:
+Name:
+REDACTED FOR PRIVACY
+Organization:
+REDACTED FOR PRIVACY
+Address Line 1:
+REDACTED FOR PRIVACY
+Address Line 2:
+
+City:
+REDACTED FOR PRIVACY
+State/Province:
+REDACTED FOR PRIVACY
+Postal Code:
+REDACTED FOR PRIVACY
+Country:
+REDACTED FOR PRIVACY
+Phone:
+REDACTED FOR PRIVACY
+Fax:
+REDACTED FOR PRIVACY
+Email: redhat.com-Admin@anonymised.email
+Full Address:
+REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY
+
+Tech Contact Information:
+Name:
+REDACTED FOR PRIVACY
+Organization:
+REDACTED FOR PRIVACY
+Address Line 1:
+REDACTED FOR PRIVACY
+Address Line 2:
+
+City:
+REDACTED FOR PRIVACY
+State/Province:
+REDACTED FOR PRIVACY
+Postal Code:
+REDACTED FOR PRIVACY
+Country:
+REDACTED FOR PRIVACY
+Phone:
+REDACTED FOR PRIVACY
+Fax:
+REDACTED FOR PRIVACY
+Email: redhat.com-Admin@anonymised.email
+Full Address:
+REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY
+
+Information Updated: 2025-01-11 03:15:04.38982+00
+
+3. [ DUOLINGO.COM ]:
+Registrar Info
+
+Name
+Amazon Registrar, Inc.
+Whois Server
+whois.registrar.amazon.com
+Referral URL
+http://registrar.amazon.com
+
+Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates
+Expires On
+2026-01-26
+Registered On
+2010-01-26
+Updated On
+2024-12-23
+
+Name Servers
+ns-1117.awsdns-11.org
+205.251.196.93
+ns-1020.awsdns-63.net
+205.251.195.252
+ns-247.awsdns-30.com
+205.251.192.247
+ns-1904.awsdns-46.co.uk
+205.251.199.112
+
+Similar Domains
+duoli.cc | duoli.cn | duoli.co | duoli.co.uk | duoli.com | duoli.com.cn | duoli.fun | duoli.info | duoli.ir | duoli.loan |duoli.mobi | duoli.net | duoli.net.cn | duoli.one | duoli.ong | duoli.online | duoli.org | duoli.pl | duoli.pw |duoli.store |
+
+Registrar Data
+We will display stored WHOIS data for up to 30 days.
+Registrant Contact Information:
+Name: On behalf of duolingo.com owner
+Organization: Identity Protection Service
+Address Line 1: PO Box 786
+Address Line 2:
+City: Hayes
+State/Province: Middlesex
+Postal Code: UB3 9TR
+Country: GB
+Phone: +44.1483307527
+Fax: +44.1483304031
+Email: cd76db5d-98d4-421a-aecd-0b4666e8b35e@identity-protect.org
+Full Address: PO Box 786, Hayes, Middlesex, UB3 9TR, GB
+
+Tech Contact Information:
+Name: On behalf of duolingo.com owner
+Organization: Identity Protection Service
+Address Line 1: PO Box 786
+Address Line 2:
+City: Hayes
+State/Province: Middlesex
+Postal Code: UB3 9TR
+Country: GB
+Phone: +44.1483307527
+Fax: +44.1483304031
+Email: cd76db5d-98d4-421a-aecd-0b4666e8b35e@identity-protect.org
+Full Address: PO Box 786, Hayes, Middlesex, UB3 9TR, GB
+
+Information Updated: 2025-01-07 20:55:41.25546+00
+
+4. [ ETSY.CA ] : 
+
+Registrar Info
+
+Name
+MarkMonitor International Canada Ltd.
+Whois Server
+whois.ca.fury.ca
+
+Referral URL
+Markmonitor.com
+
+Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates
+Expires On
+2025-10-24
+Registered On
+2006-10-24
+Updated On
+2023-09-22
+
+Name Servers
+ns-1166.awsdns-17.org
+205.251.196.142
+ns-612.awsdns-12.net
+205.251.194.100
+ns-1849.awsdns-39.co.uk
+205.251.199.57
+ns-148.awsdns-18.com
+205.251.192.148
+
+Similar Domains
+etsy.adult | etsy.ae | etsy.africa | etsy.ai | etsy.am | etsy.app | etsy.ar | etsy.asia | etsy.at | etsy.baby | etsy.bar |etsy.be | etsy.best | etsy.bg | etsy.bio | etsy.biz | etsy.biz.id | etsy.biz.pl | etsy.blackfriday | etsy.blog |
+
+Registrar Data
+
+Registrant Contact Information:
+Name: Etsy, Inc. TMA692467
+Organization:
+Address Line 1: 719 E. 12th Street
+Address Line 2:
+City: Brooklyn
+State/Province: NY
+Postal Code: 11230
+Country: US
+Phone: +1.7188553764
+Fax:
+Email: dns-admin@etsy.ca
+Full Address: 719 E. 12th Street, Brooklyn, NY, 11230, US
+
+Administrative Contact Information:
+Name: Sarah Feingold
+Organization: Etsy, Inc. TMA692467
+Address Line 1: 719 E. 12th Street
+Address Line 2:
+City: Brooklyn
+State/Province: NY
+Postal Code: 1230
+Country: US
+Phone: +1.7188553764
+Fax:
+
+Email: dns-admin@etsy.ca
+Full Address: 719 E. 12th Street, Brooklyn, NY, 11230, US
+
+Tech Contact Information:
+Name: Sarah Feingold
+Organization: Etsy, Inc. TMA692467
+Address Line 1: 719 E. 12th Street
+Address Line 2:
+City: Brooklyn
+State/Province: NY
+Postal Code: 11230
+Country: US
+Phone: +1.7188553764
+Fax:
+Email: dns-admin@etsy.ca
+Full Address: 719 E. 12th Street, Brooklyn, NY, 11230, US
+
+Information Updated: 2025-01-13 20:34:01.430966+00
+
+
+5. [ SPACEX ]:
+Registrar Info
+
+Name
+Network Solutions, LLC
+Whois Server
+whois.networksolutions.com
+
+Referral URL
+http://networksolutions.com
+
+Status
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Important Dates
+Expires On
+2028-05-13
+Registered On
+2002-05-13
+Updated On
+2023-03-14
+
+Name Servers
+ns-cloud-b1.googledomains.com
+216.239.32.107
+ns-cloud-b2.googledomains.com
+216.239.34.107
+ns-cloud-b3.googledomains.com
+216.239.36.107
+ns-cloud-b4.googledomains.com
+216.239.38.107
+
+Similar Domains
+space | space---homies.com | space--academy.com | space--bar.com | space--between.com | space--book.com | space--cats.com |space--heaters.com | space--jam.com | space--lab.com | space--lab.net | space--market.ru | space--team.ru | space--technology.net | space--time.com | space--travel.com | space--u.com | space--x.space | space-0.com | space-001.com |
+
+Registrar Data
+Registrant Contact Information:
+Name: Space Exploration Technologies
+Organization: Space Exploration Technologies
+Address Line 1: 1 ROCKET RD
+Address Line 2:
+City: HAWTHORNE
+State/Province: CA
+Postal Code: 90250-6844
+Country: US
+Phone: +1.3103636000
+Fax:
+Email: hostmaster@spacex.com
+Full Address: 1 ROCKET RD, HAWTHORNE, CA, 90250-6844, US
+
+Administrative Contact Information:
+Name: Space Exploration Technologies
+Organization: Space Exploration Technologies
+Address Line 1: 1 ROCKET RD
+Address Line 2:
+City: HAWTHORNE
+State/Province: CA
+Postal Code: 90250-6844
+Country: US
+Phone: +1.3103636000
+Fax:
+Email: hostmaster@spacex.com
+Full Address: 1 ROCKET RD, HAWTHORNE, CA, 90250-6844, US
+
+Tech Contact Information:
+Name: Space Exploration Technologies
+Organization: Space Exploration Technologies
+Address Line 1: 1 ROCKET RD
+Address Line 2:
+City: HAWTHORNE
+State/Province: CA
+Postal Code: 90250-6844
+Country: US
+Phone: +1.3103636000
+Fax:
+Email: hostmaster@spacex.com
+Full Address: 1 ROCKET RD, HAWTHORNE, CA, 90250-6844, US
+
+Information Updated: 2025-01-06 21:28:18.464244+00
+
+
+
