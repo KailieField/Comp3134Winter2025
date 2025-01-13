@@ -1,0 +1,16 @@
+
+
+[ LOCAL MACHINE ] : 
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping www.google.com -w 5
+PING www.google.com (142.251.41.36) 56(84) bytes of data.
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=1 ttl=59 time=2.20 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=2 ttl=59 time=1.68 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=3 ttl=59 time=1.59 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=4 ttl=59 time=1.61 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=5 ttl=59 time=1.56 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 1.557/1.727/2.198/0.238 ms
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# 

@@ -1,0 +1,19 @@
+
+[ LOCAL MACHINE ] : 
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# traceroute www.georgebrown.ca
+traceroute to www.georgebrown.ca (23.43.242.131), 30 hops max, 60 byte packets
+ 1  162.243.190.9 (162.243.190.9)  2.479 ms 162.243.190.5 (162.243.190.5)  2.071 ms 162.243.190.9 (162.243.190.9)  2.055 ms
+ 2  143.244.192.124 (143.244.192.124)  2.520 ms 143.244.192.138 (143.244.192.138)  2.477 ms  2.786 ms
+ 3  143.244.224.42 (143.244.224.42)  2.633 ms 143.244.224.48 (143.244.224.48)  2.667 ms 143.244.224.42 (143.244.224.42)  2.854 ms
+ 4  143.244.224.45 (143.244.224.45)  2.518 ms  2.771 ms 143.244.224.39 (143.244.224.39)  2.311 ms
+ 5  ae-18.a00.toroon02.ca.bb.gin.ntt.net (157.238.227.120)  2.293 ms  2.276 ms ae-17.a00.toroon02.ca.bb.gin.ntt.net (157.238.227.100)  2.621 ms
+ 6  ae-2.r24.chcgil09.us.bb.gin.ntt.net (129.250.2.46)  13.833 ms  13.076 ms  12.949 ms
+ 7  ae-24.a06.chcgil09.us.bb.gin.ntt.net (129.250.4.9)  13.197 ms  12.883 ms  13.150 ms
+ 8  ae-0.akamai-onnet.chcgil09.us.bb.gin.ntt.net (140.174.28.86)  13.433 ms  13.394 ms  13.240 ms
+ 9  ae3.r21.ord01.mag.netarch.akamai.com (23.207.225.88)  13.529 ms  13.590 ms  13.447 ms
+10  ae34.r01.ord01.icn.netarch.akamai.com (23.207.225.67)  13.456 ms ae33.r01.ord01.icn.netarch.akamai.com (23.207.225.65)  13.437 ms ae34.r01.ord01.icn.netarch.akamai.com (23.207.225.67)  13.418 ms
+11  ae6.r01.yto01.icn.netarch.akamai.com (23.193.112.217)  19.433 ms ae3.r02.yto01.icn.netarch.akamai.com (23.32.63.111)  12.782 ms ae6.r01.yto01.icn.netarch.akamai.com (23.193.112.217)  18.327 ms
+12  ae2.r01.yto01.ien.netarch.akamai.com (23.203.148.37)  12.543 ms  12.582 ms  12.579 ms
+13  ae3.torix-yto.netarch.akamai.com (23.203.148.193)  16.338 ms  25.040 ms  25.020 ms
+14  a23-43-242-131.deploy.static.akamaitechnologies.com (23.43.242.131)  13.599 ms  11.881 ms  12.961 ms
