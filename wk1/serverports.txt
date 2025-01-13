@@ -1,0 +1,32 @@
+
+[ DEFINITION OF SERVER PORT ] : 
+
+Server ports consist of 16-bit unsigned integers ranging from 0 to 65535 and act as a unique identifying value. 
+This identifier allows for devices that share or occupy space on the server to hold their own specific ‘name’ of sorts. 
+Most ports are categorized into ranges depending on their use:
+
+[ WHAT IS SERVER PORT RANGE ] : 
+
+A Server Port Range can be considered a range of numerical values that are commonly used, standardized, assigned or dynamically/privately categorized ports identifiers.
+
+1. 0 - 1023 : Commonly used and Standardized
+2. 1024 - 49151 :  Registered Ports (commonly for MySQL Database Services, PostgreSQL etc.)
+3. 49152 - 65535 : Dynamic/Private Ports
+
+
+[ HOW MANY BITS DOES NUMBER ABOVE REPRESENT ]:
+
+16-bits
+
+[ STATE 10 COMMON SERVER PORTS ]:
+
+	1. PORT 22 (SSH)
+	2. PORT 80 HTTP
+	3. PORT 443 HTTPS
+	4. PORT 25 SMTP
+	5. PORT 8080 ALT. HTTP 
+	6. PORT 3306 MYSQL
+	7. PORT 53 DNS
+	8. PORT 143 IMAP
+	9. PORT 21 FTP
+	10. PORT 3000 WEB-DEV (NODE.JS, REACT.JS, LOCAL TESTING)
