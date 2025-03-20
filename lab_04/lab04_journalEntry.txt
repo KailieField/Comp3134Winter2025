@@ -1,0 +1,15 @@
+--------[LAB 04 JOURNAL ENTRY]--------
+
+------ PACKET SENDER ERROR IN LOG "could not connect":
+----------- Issue: ports weren't listening
+-----solution: 
+-------- opened up 2 terminal windows
+-------- nc -l 80
+-------- nc -l 10000
+
+>>> enter >> ports now listening for packet sender TCP packets
+>> screen shots confirm reception of 2 TCP packets > attached.
+
+------ IPv4 Location for PacketSender Use:
+Did not use whatismyip.com to get IPv4 --> website only provided IPv6
+------ terminal command >> ifconfig | grep "inet "
