@@ -1,0 +1,12 @@
+--------------------------------[ D. MYSTERY TASK 1 ]--------------------------------
+
+http://159.89.123.142/directory_traversal_part1.php?q=hello
+
+[ OBSERVED ]:
+
+--------------- there is nothing there, there is also no error reporting. 
+
+--------------- the browser is doing so I believe because of the scandir() function:
+>> attempting to read a directory labelled "hello" which does not exist on my particular server.
+ 
+--------------- script could do well with updated validations

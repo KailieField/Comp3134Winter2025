@@ -1,0 +1,12 @@
+--------------------------------[ D. DIRECTORY TRAVERSAL 1 ]--------------------------------
+
+http://159.89.123.142/directory_traversal_part1.php?q=../../
+
+[ OBSERVED ]:
+
+--------------- this Query URL displays the parent directory above the root
+>> not good, the browser is showing file system without authentication
+
+[ SENSITIVE INFO REVEALED ]:
+--------------- system-level directories that include logs, tmp, lib and www
+--------------- this would give attackers the ability to probe files for sensitive information, details, configuration, credentials and even map the internal structure of my server. 
