@@ -13,3 +13,7 @@
 ------ IPv4 Location for PacketSender Use:
 Did not use whatismyip.com to get IPv4 --> website only provided IPv6
 ------ terminal command >> ifconfig | grep "inet "
+
+
+------- QUESTION F:
+---- switched to lo0 to capture UDP traffic on local-to-local network. 
