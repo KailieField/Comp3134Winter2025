@@ -1,7 +1,16 @@
 *
+
+!*.pdf
+!*.png
+!*.jpg
+!*.jpeg
+
 !.gitignore
+
 !README.md
+
 !Assignment03/
 !Assignment03/README.md
+
 !Assignment04/
 !Assignment04/README.md
