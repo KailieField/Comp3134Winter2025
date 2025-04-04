@@ -1,0 +1,11 @@
+--------------------------------[ D. DIRECTORY TRAVERSAL 2 ]--------------------------------
+
+http://159.89.123.142/directory_traversal_part1.php?q=%2e%2e%2f
+
+[ OBSERVED ]: 
+--------------- my parent directory at the web root. 
+
+[ SENSITIVE INFO REVEALED ]:
+--------------- The PHP script is not good enough to stop potential bypassing of directory restrictions
+--------------- this shows us the structure outside of the web directory, including the very html directory that has content and configuration files. 
+--------------- 100% exploitable 
