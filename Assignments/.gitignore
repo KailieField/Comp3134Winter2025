@@ -1,11 +1,12 @@
 *
 
-!*.txt
-!*.pdf
-!*.png
-!*.jpg
-!*.jpeg
-!*.docx
+!**/*.md
+!**/*.txt
+!**/*.pdf
+!**/*.png
+!**/*.jpg
+!**/*.jpeg
+!**/*.docx
 
 !.gitignore
 
