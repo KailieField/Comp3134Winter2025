@@ -5,6 +5,7 @@
 !.gitignore
 !README.md
 
+!**/*.php
 !**/*.md
 !**/*.pdf
 !**/*.png
