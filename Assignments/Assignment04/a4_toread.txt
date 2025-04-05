@@ -1,0 +1,5 @@
+<script>document.body.style.backgroundColor = 'lightblue';</script>
+<?php phpinfo(); ?>
+Its interesting...
+I am finding a lot of nuance when working with Mac and droplet consoles.
+Its a little frustrating, but easy to navigate eventually.

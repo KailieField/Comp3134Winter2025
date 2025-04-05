@@ -1,0 +1,16 @@
+#----------------------------[ ASSIGNMENT 04 || Kailie Field   ]-------------------------------------------------
+#--------------------------------------[ TASK 1 ]----------------------------------------------------------------
+#
+#   [1]: Create page a4_reflected.php (1 mark)
+#           a) In PHP, output a query string value without sanitizing it (2 marks)
+#           b) In browser navigate to page above and pass query string value to alert message to screen.
+#
+#                           i. Write the query in a text file named step1b.txt  (1 mark)
+#                          ii. Save a screenshot of the output in an image file named step1b.png (1 mark)
+#
+#-----------------------------------------------------------------------------------------------------------------------------------
+
+
+i. Write the query in a text file named step1b.txt  (1 mark):
+
+		[ QUERY ] : http://159.89.123.142/a4_reflected.php?message=%3Cscript%3Ealert(%27XSS%27)%3C/script%3E
