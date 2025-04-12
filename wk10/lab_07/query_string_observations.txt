@@ -1,0 +1,23 @@
+-------------------------[ C. SENDING INFO TO APP ]-------------------------
+
+-------[1. Observations ]:
+	-- when typing the word 'revenant' into the form the option for:
+		' Definitions' || 'Synonyms' populate simultaneously 
+	-- Do not need to press enter for these options to populate
+-------[2. Observations ]:
+	-- https://www.dictionary.com/browse/TLDR
+	-- 'No results found for TLDR' populates 
+	-- url still remains: dictionary.com/browse/TLDR
+-------[3. Observations ]:
+-- https://www.dictionary.com/browse/%3Cscript%3Ealert(%2527hello%2527)%3C%2Fscript%3E
+	-- populates 'No results found for <script>alert('hello')</script>'
+	-- search box is cleared
+	-- no alert populates
+	-- script is blocked from executing
+-------[4. Observations ]:
+	-- REPEAT of last except populated message changes
+	-- 404 html Title
+	-- "Oops
+		[ oops, oops ]
+	The sound we make when we can’t find the page you’re looking for. We are so 	sorry! Please try again later!"
+	

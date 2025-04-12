@@ -1,0 +1,12 @@
+-------------------------[ SOLUTION DIFFERENCES ]-------------------------
+
+htmlentities()
+-- converts special characters to HTML entity codes
+-- preserves readability
+-- used when user input must be kept safe
+
+VS.
+
+strip_tags()
+-- removes any HTML tags from input
+-- used to eliminate formatting or tags
