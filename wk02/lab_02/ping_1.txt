@@ -1,0 +1,13 @@
+
+[ DROPLET CONSOLE ] :
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping www.google.com -w 3
+PING www.google.com (142.251.41.36) 56(84) bytes of data.
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=1 ttl=59 time=2.28 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=2 ttl=59 time=1.63 ms
+64 bytes from yyz12s08-in-f4.1e100.net (142.251.41.36): icmp_seq=3 ttl=59 time=1.63 ms
+
+--- www.google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 1.625/1.843/2.279/0.307 ms
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# 

@@ -1,8 +1,4 @@
-*
-!.gitignore
-!README.md
-!**/*.md
-!**/*.pdf
-!**/*.png
-!**/*.jpg
-!**/*.jpeg
+
+.DS_STORE
+
+

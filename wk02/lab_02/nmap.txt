@@ -1,0 +1,74 @@
+
+
+[ SCAN 1000 TCP PORTS ] : 
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap www.georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 22:30 UTC
+Nmap scan report for www.georgebrown.ca (23.43.242.131)
+Host is up (0.013s latency).
+Other addresses for www.georgebrown.ca (not scanned): 23.43.242.128
+rDNS record for 23.43.242.131: a23-43-242-131.deploy.static.akamaitechnologies.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.51 seconds
+
+[ SCAN SINGLE PORT ] : 
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 80 www.georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 22:32 UTC
+Nmap scan report for www.georgebrown.ca (23.43.242.128)
+Host is up (0.013s latency).
+Other addresses for www.georgebrown.ca (not scanned): 23.43.242.131
+rDNS record for 23.43.242.128: a23-43-242-128.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.08 seconds
+
+[ SCAN RANGE OF PORTS ] : 
+
+Command breakdown: 
+	nmap 
+	-p : port specified
+	20-443  : range of ports
+	-sS  : Stealth Scan (avoid TCP handshake completion)
+	-sV  : Service Detection -- service/version running on open ports
+	-O   : OS Detection 
+
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 20-443 -sS -sV -O www.georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 22:35 UTC
+Nmap scan report for www.georgebrown.ca (23.43.242.128)
+Host is up (0.013s latency).
+Other addresses for www.georgebrown.ca (not scanned): 23.43.242.131
+rDNS record for 23.43.242.128: a23-43-242-128.deploy.static.akamaitechnologies.com
+Not shown: 422 filtered ports
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     AkamaiGHost (Akamai's HTTP Acceleration/Mirror service)
+443/tcp open  ssl/http AkamaiGHost (Akamai's HTTP Acceleration/Mirror service)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Linux 2.6.32 (93%), Linux 3.2 - 4.9 (93%), Linux 2.6.32 - 3.10 (92%), Linux 3.4 - 3.10 (91%), Linux 3.1 (90%), Linux 3.2 (90%), AXIS 210A or 211 Network Camera (Linux 2.6.17) (90%), Linux 2.6.32 - 3.13 (90%), Linux 2.6.32 - 2.6.35 (90%), Linux 2.6.32 - 3.5 (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 14 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.66 seconds
+
+[ 100 MOST COMMON PORTS -F ] : 
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -F www.georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 22:42 UTC
+Nmap scan report for www.georgebrown.ca (23.43.242.128)
+Host is up (0.013s latency).
+Other addresses for www.georgebrown.ca (not scanned): 23.43.242.131
+rDNS record for 23.43.242.128: a23-43-242-128.deploy.static.akamaitechnologies.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.88 seconds
