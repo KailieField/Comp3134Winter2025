@@ -1,3 +1,17 @@
+-----------------[ E. DIRECTORY TRAVERSAL PAGE VERSION 2 ]--------------------------------
 
+http://159.89.123.142/directory_traversal_part2.php
 
--------- TO BE CONTINUED --------
+[ MITIGATION ]:
+
+---- 1. Use the basename() function to sanitize the input path
+	-- prevents DIR traversal using '../' which would permit access to folders in the web ~
+---- 2. Use file_exists() and is_dir() to verify requested path exists && is DIR
+	-- if path !exist || if !is_DIR --- display error, do not scandir()
+
+[ ADDITIONAL MITIGATION ]:
+
+---- checked if user input contains '.' (strpos())
+	---- if '.' Detected -- ACCESS DENIED
+
+---- prevents users from traversing, accessing or viewing beyond the web ~
