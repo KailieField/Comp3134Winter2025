@@ -1,0 +1,7 @@
+------------------[ E. STORED XSS ]------------------
+
+-------[ OBSERVATION ]:
+
+--- The application's content is provided without sanitizing it
+--- This inherently means that malicious Javascript could execute immediately within the browser
+-- attackers can easily perform actions without user consent

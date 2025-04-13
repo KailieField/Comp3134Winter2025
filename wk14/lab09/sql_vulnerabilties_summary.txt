@@ -1,0 +1,11 @@
+-------------[ INJECTION SUMMARY ]-------------
+
+-- If you query the firstname of the user within the database it will return the user and their information
+
+-- only the injection attack ' OR '1'='1 populates all of the user from within the database
+
+-- either way this means that the app is vulnerable to SQL Injection if the user is input without sanitization.
+
+--- this allows users to manipulate the database via SQL queries 
+
+In getusers_2.php, the prepared statement is used to safely bind the user input, thus preventing SQL injection.

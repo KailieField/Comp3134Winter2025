@@ -1,0 +1,6 @@
+--------------[ F. MITIGATING CROSS-SITE FORGERY REQUEST]--------------
+
+------[ OBSERVATION ]:
+
+---- CSFR vulnerability is mitigated using server-side session validation
+---- manipulating token changes output should change from ACCEPTED to DENIED dpending on if the generated confirmation token is accepted.
